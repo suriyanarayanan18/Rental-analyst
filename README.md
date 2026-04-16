@@ -99,8 +99,3 @@ User Question
 - VADER (sentiment analysis)
 - Python 3.10+
 
-## Cost
-- CrewAI: Free (open source)
-- Airbnb data: Free (Inside Airbnb)
-- Claude API: ~$1-2 per full pipeline run
-- Total project cost: Under $10
