@@ -1,0 +1,10 @@
+.env
+data/*.csv
+data/*.csv.gz
+data/*.geojson
+outputs/*.md
+outputs/*.pdf
+__pycache__/
+*.pyc
+.venv/
+venv/
